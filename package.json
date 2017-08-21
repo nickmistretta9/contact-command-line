@@ -1,0 +1,13 @@
+{
+  "name": "contact-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "preferGlobab": true,
+  "bin": "./contact.js",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "inquirer": "^3.2.2",
+    "mongoose": "^4.11.7"
+  }
+}
